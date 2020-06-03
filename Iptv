@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1,A
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/19296.m3u8?checkedby:iptvcat.com/
+#EXTINF:0,http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/19296.m3u8?checkedby:iptvcat.com/
 #EXTINF:
