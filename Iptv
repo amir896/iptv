@@ -1,2 +1,17 @@
-
-http://tv.zaintv.net:25461/get.php?username=test88&password=test88&type=m3u&output=mpegts
+#EXTM3U
+#EXTINF:-1,PK || 92 NEWS HD
+http://tv.zaintv.net:25461/test88/test88/56356
+#EXTINF:-1,PK || GNN FHD
+http://tv.zaintv.net:25461/test88/test88/56343
+#EXTINF:-1,PK || HUM NEWS
+http://tv.zaintv.net:25461/test88/test88/56458
+#EXTINF:-1,PK || ARY NEWS
+http://tv.zaintv.net:25461/test88/test88/56444
+#EXTINF:-1,PK || SAMAA NEWS
+http://tv.zaintv.net:25461/test88/test88/56447
+#EXTINF:-1,PK || BOL NEWS
+http://tv.zaintv.net:25461/test88/test88/56348
+#EXTINF:-1,PK || DUNYA NEWS
+http://tv.zaintv.net:25461/test88/test88/56336
+#EXTINF:-1,PK || GEO NEWS
+http://tv.zaintv.net:25461/test88/test88/56329
