@@ -15,8 +15,10 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/kR1tW0o.jpg",Geo Kahani
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/JoO8hEx.jpg",Geo Tv
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/jYR0ACG.png",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/eNIZq3q.png",Sahar Urdu
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
