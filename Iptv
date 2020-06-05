@@ -11,14 +11,20 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5593.m3u8?checke
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/bBqJrfl.jpg",Duniya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#22EXTINF:0,
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/wY41F5k.png",Express Tv
+https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/kR1tW0o.jpg",Geo Kahani
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/JoO8hEx.jpg",Geo Tv
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="
