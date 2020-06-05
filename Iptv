@@ -27,7 +27,8 @@ http://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com
 http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pakistan.png",A+plus
 http://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png",Bol entertainment
+http://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
