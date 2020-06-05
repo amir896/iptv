@@ -7,11 +7,12 @@ http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5616.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://en.m.wikipedia.org/wiki/Hum_TV#/media/File%3AHum_TV_2013.png",Hum Tv
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5593.m3u8?checkedby:iptvcat.com
-#EXTINF:0,92 News
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/OifwcrE.png",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
+#EXTINF,
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
@@ -19,6 +20,4 @@ http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptv
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
+#22EXTINF:0,
