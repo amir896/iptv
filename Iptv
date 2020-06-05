@@ -43,7 +43,8 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5556.m3u8?checke
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png",Filmmax
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png",Geo Entertainment
+http://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
