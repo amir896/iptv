@@ -21,7 +21,8 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png",Ary News
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5554.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png",Aaj Entertainment
+http://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
