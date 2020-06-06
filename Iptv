@@ -79,7 +79,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="http://3.bp.blogspot.com/-aGhy-qpppHo/VZPi94Cs0rI/AAAAAAAAFdY/zq4g2nAHQSA/s1600/Hungama%2BTV.jpg",Nazrana Tv
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/ss/such-tv-pk.png",Such Tv
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5578.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
