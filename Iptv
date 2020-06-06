@@ -56,7 +56,7 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5585.m3u8?checke
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-news-hd-pk.png",Neo News
 http://playlive.goonj.pk/neonewsweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/nn/news_one_pk.png",News One
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5584.m3u8?checkedby:iptvcat.com
+http://playlive.goonj.pk/aajentweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_global_pk.png",Ptv Global
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5583.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_home_pk.png",Ptv Home
