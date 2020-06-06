@@ -85,7 +85,8 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5578.m3u8?checke
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_hd.png",Star Gold
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/53.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Pak/Asia"tvg-logo="
+#EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia_hd.png",HBO HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5699.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="
