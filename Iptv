@@ -74,7 +74,7 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8?checkedby:iptvcat.c
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png",Star Movies
 http://linux-app.tv:6204/15020208413552/24021189856304/30734?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png",Zee Tv
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
+https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="https://i.imgur.com/B5YD4pD.png",Subrang Tv
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0 group-title="Pak/Asia"tvg-logo="http://3.bp.blogspot.com/-aGhy-qpppHo/VZPi94Cs0rI/AAAAAAAAFdY/zq4g2nAHQSA/s1600/Hungama%2BTV.jpg",Nazrana Tv
